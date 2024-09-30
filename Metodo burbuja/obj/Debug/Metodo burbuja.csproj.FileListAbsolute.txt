@@ -1,0 +1,10 @@
+C:\Users\lolv7\source\repos\Sesion 13\Metodo burbuja\bin\Debug\Metodo burbuja.exe.config
+C:\Users\lolv7\source\repos\Sesion 13\Metodo burbuja\bin\Debug\Metodo burbuja.exe
+C:\Users\lolv7\source\repos\Sesion 13\Metodo burbuja\bin\Debug\Metodo burbuja.pdb
+C:\Users\lolv7\source\repos\Sesion 13\Metodo burbuja\obj\Debug\Metodo burbuja.csproj.AssemblyReference.cache
+C:\Users\lolv7\source\repos\Sesion 13\Metodo burbuja\obj\Debug\Metodo_burbuja.Form1.resources
+C:\Users\lolv7\source\repos\Sesion 13\Metodo burbuja\obj\Debug\Metodo_burbuja.Properties.Resources.resources
+C:\Users\lolv7\source\repos\Sesion 13\Metodo burbuja\obj\Debug\Metodo burbuja.csproj.GenerateResource.cache
+C:\Users\lolv7\source\repos\Sesion 13\Metodo burbuja\obj\Debug\Metodo burbuja.csproj.CoreCompileInputs.cache
+C:\Users\lolv7\source\repos\Sesion 13\Metodo burbuja\obj\Debug\Metodo burbuja.exe
+C:\Users\lolv7\source\repos\Sesion 13\Metodo burbuja\obj\Debug\Metodo burbuja.pdb
