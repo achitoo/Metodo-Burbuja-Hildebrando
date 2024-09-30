@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F3922B30-5931-45FD-BB4C-6B10CF823CDE}|Registro\\Registro.csproj|c:\\users\\lolv7\\source\\repos\\sesion 13\\registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3922B30-5931-45FD-BB4C-6B10CF823CDE}|Registro\\Registro.csproj|solutionrelative:registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3922B30-5931-45FD-BB4C-6B10CF823CDE}|Registro\\Registro.csproj|c:\\users\\lolv7\\source\\repos\\sesion 13\\registro\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3922B30-5931-45FD-BB4C-6B10CF823CDE}|Registro\\Registro.csproj|solutionrelative:registro\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3922B30-5931-45FD-BB4C-6B10CF823CDE}|Registro\\Registro.csproj|c:\\users\\lolv7\\source\\repos\\sesion 13\\registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3922B30-5931-45FD-BB4C-6B10CF823CDE}|Registro\\Registro.csproj|solutionrelative:registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A287A8B-8A1A-4CA1-9720-4834E2107277}|Metodo burbuja\\Metodo burbuja.csproj|c:\\users\\lolv7\\source\\repos\\sesion 13\\metodo burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A287A8B-8A1A-4CA1-9720-4834E2107277}|Metodo burbuja\\Metodo burbuja.csproj|solutionrelative:metodo burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A287A8B-8A1A-4CA1-9720-4834E2107277}|Metodo burbuja\\Metodo burbuja.csproj|c:\\users\\lolv7\\source\\repos\\sesion 13\\metodo burbuja\\models\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A287A8B-8A1A-4CA1-9720-4834E2107277}|Metodo burbuja\\Metodo burbuja.csproj|C:\\Users\\lolv7\\source\\repos\\Sesion 13\\metodo burbuja\\models\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A287A8B-8A1A-4CA1-9720-4834E2107277}|Metodo burbuja\\Metodo burbuja.csproj|solutionrelative:metodo burbuja\\models\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A287A8B-8A1A-4CA1-9720-4834E2107277}|Metodo burbuja\\Metodo burbuja.csproj|c:\\users\\lolv7\\source\\repos\\sesion 13\\metodo burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8A287A8B-8A1A-4CA1-9720-4834E2107277}|Metodo burbuja\\Metodo burbuja.csproj|C:\\Users\\lolv7\\source\\repos\\Sesion 13\\metodo burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8A287A8B-8A1A-4CA1-9720-4834E2107277}|Metodo burbuja\\Metodo burbuja.csproj|solutionrelative:metodo burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,18 +44,56 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\Registro\\Form1.cs",
+              "RelativeDocumentMoniker": "Registro\\Form1.cs",
+              "ToolTip": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\Registro\\Form1.cs",
+              "RelativeToolTip": "Registro\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:34:35.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\Registro\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Registro\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\Registro\\Models\\Product.cs",
+              "RelativeToolTip": "Registro\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:31:40.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\Registro\\Form1.cs",
+              "RelativeDocumentMoniker": "Registro\\Form1.cs",
+              "ToolTip": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\Registro\\Form1.cs [Design]",
+              "RelativeToolTip": "Registro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:25:34.091Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\Metodo burbuja\\Form1.cs",
               "RelativeDocumentMoniker": "Metodo burbuja\\Form1.cs",
               "ToolTip": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\Metodo burbuja\\Form1.cs",
               "RelativeToolTip": "Metodo burbuja\\Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T15:33:43.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Bubble.cs",
               "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\Metodo burbuja\\Models\\Bubble.cs",
               "RelativeDocumentMoniker": "Metodo burbuja\\Models\\Bubble.cs",
@@ -51,20 +101,18 @@
               "RelativeToolTip": "Metodo burbuja\\Models\\Bubble.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T15:25:57.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T15:25:57.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\Metodo burbuja\\Form1.cs",
               "RelativeDocumentMoniker": "Metodo burbuja\\Form1.cs",
               "ToolTip": "C:\\Users\\lolv7\\source\\repos\\Sesion 13\\Metodo burbuja\\Form1.cs [Design]",
               "RelativeToolTip": "Metodo burbuja\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T15:21:56.823Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-30T15:21:56.823Z"
             }
           ]
         }

@@ -1,0 +1,10 @@
+C:\Users\lolv7\source\repos\Sesion 13\Registro\obj\Debug\Registro.csproj.AssemblyReference.cache
+C:\Users\lolv7\source\repos\Sesion 13\Registro\obj\Debug\Registro.Form1.resources
+C:\Users\lolv7\source\repos\Sesion 13\Registro\obj\Debug\Registro.Properties.Resources.resources
+C:\Users\lolv7\source\repos\Sesion 13\Registro\obj\Debug\Registro.csproj.GenerateResource.cache
+C:\Users\lolv7\source\repos\Sesion 13\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\lolv7\source\repos\Sesion 13\Registro\bin\Debug\Registro.exe.config
+C:\Users\lolv7\source\repos\Sesion 13\Registro\bin\Debug\Registro.exe
+C:\Users\lolv7\source\repos\Sesion 13\Registro\bin\Debug\Registro.pdb
+C:\Users\lolv7\source\repos\Sesion 13\Registro\obj\Debug\Registro.exe
+C:\Users\lolv7\source\repos\Sesion 13\Registro\obj\Debug\Registro.pdb
